@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {"id":"gd1","title":"The role of artificial intelligence in education","category":"Technology"},
+    {"id":"gd2","title":"Should digital textbooks replace printed books?","category":"Education"},
+    {"id":"gd3","title":"Climate action and individual responsibility","category":"Environment"},
+    {"id":"gd4","title":"The future of work and automation","category":"Career"},
+    {"id":"gd5","title":"Online learning versus classroom learning","category":"Education"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "participants": [
+    {"id":"p1","name":"Aarav","role":"Student"},
+    {"id":"p2","name":"Diya","role":"Student"},
+    {"id":"p3","name":"Kavin","role":"Student"},
+    {"id":"p4","name":"Meera","role":"Student"},
+    {"id":"p5","name":"Teacher","role":"Moderator"}
+  ]
+}

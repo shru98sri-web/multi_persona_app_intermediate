@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+backend/.venv/
+backend/__pycache__/
+backend/data/app_state.json
+backend/uploads/*
+!backend/uploads/.gitkeep

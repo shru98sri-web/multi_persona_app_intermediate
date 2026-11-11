@@ -1,0 +1,21 @@
+﻿Analyzing Tuition_BluePink_Complete_Full...                     
+
+  error - Target of URI doesn't exist: 'learning_modules.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist - lib\main.dart:108:8 - uri_does_not_exist
+  error - 1 positional argument expected by 'initialize', but 0 found. Try adding the missing argument - lib\main.dart:28845:7 - not_enough_positional_arguments
+  error - The named parameter 'settings' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'settings' - lib\main.dart:28845:7 - undefined_named_parameter
+  error - 4 positional arguments expected by 'show', but 0 found. Try adding the missing arguments - lib\main.dart:28915:7 - not_enough_positional_arguments
+  error - The named parameter 'id' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'id' - lib\main.dart:28915:7 - undefined_named_parameter
+  error - The named parameter 'title' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'title' - lib\main.dart:28916:7 - undefined_named_parameter
+  error - The named parameter 'body' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'body' - lib\main.dart:28917:7 - undefined_named_parameter
+  error - The named parameter 'notificationDetails' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'notificationDetails' - lib\main.dart:28918:7 - undefined_named_parameter
+warning - The declaration '_UnsupportedVideoController' isn't referenced. Try removing the declaration of '_UnsupportedVideoController' - lib\platform_io_stub.dart:1:7 - unused_element
+
+flutter : 9 issues found. (ran in 10.0s)
+At line:1 char:1
++ flutter analyze 2>&1 | Out-File -FilePath 
+flutter_analysis.txt -Encod ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (9 issues  
+   found. (ran in 10.0s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

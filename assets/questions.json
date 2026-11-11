@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Biology — Photosynthesis",
+      "prompt": "Explain photosynthesis and mention its requirements.",
+      "modelAnswer": "Photosynthesis is the process by which green plants use sunlight and chlorophyll to convert carbon dioxide and water into glucose and oxygen.",
+      "maxMarks": 10,
+      "keywords": ["photosynthesis", "sunlight", "chlorophyll", "carbon dioxide", "water", "glucose", "oxygen"]
+    },
+    {
+      "id": "q2",
+      "title": "Physics — Newton's Second Law",
+      "prompt": "State Newton's second law and write its mathematical expression.",
+      "modelAnswer": "Newton's second law states that force is equal to mass multiplied by acceleration: F = ma.",
+      "maxMarks": 5,
+      "keywords": ["force", "mass", "acceleration", "momentum", "f = ma"]
+    },
+    {
+      "id": "q3",
+      "title": "English — Water Conservation",
+      "prompt": "Explain why water conservation is important.",
+      "modelAnswer": "Water conservation protects freshwater resources, reduces shortages and supports people and ecosystems.",
+      "maxMarks": 5,
+      "keywords": ["water", "conservation", "freshwater", "resources", "shortages", "ecosystems"]
+    }
+  ]
+}

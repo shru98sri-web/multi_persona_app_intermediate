@@ -1,0 +1,77 @@
+{
+  "school": "Academic Performance Dataset",
+  "records": [
+    {
+      "studentId": "ST001",
+      "studentName": "Arun",
+      "academicYear": "2023-2024",
+      "className": "10A",
+      "subject": "Mathematics",
+      "marks": 95,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST001",
+      "studentName": "Arun",
+      "academicYear": "2023-2024",
+      "className": "10A",
+      "subject": "Science",
+      "marks": 82,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST002",
+      "studentName": "Priya",
+      "academicYear": "2023-2024",
+      "className": "10A",
+      "subject": "Mathematics",
+      "marks": 75,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST002",
+      "studentName": "Priya",
+      "academicYear": "2023-2024",
+      "className": "10A",
+      "subject": "Science",
+      "marks": 88,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST001",
+      "studentName": "Arun",
+      "academicYear": "2024-2025",
+      "className": "11A",
+      "subject": "Mathematics",
+      "marks": 88,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST002",
+      "studentName": "Priya",
+      "academicYear": "2024-2025",
+      "className": "11A",
+      "subject": "Mathematics",
+      "marks": 92,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST003",
+      "studentName": "Kavya",
+      "academicYear": "2024-2025",
+      "className": "11A",
+      "subject": "Science",
+      "marks": 61,
+      "maxMarks": 100
+    },
+    {
+      "studentId": "ST004",
+      "studentName": "Rahul",
+      "academicYear": "2024-2025",
+      "className": "11A",
+      "subject": "Science",
+      "marks": 42,
+      "maxMarks": 100
+    }
+  ]
+}
